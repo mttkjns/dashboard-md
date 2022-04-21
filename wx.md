@@ -1,193 +1,323 @@
-## Salt Lake City, UT
-4285ft
-SLC
-*Apr 21, 2022 12:03 America/Denver*
+## Flowery Branch, GA
+1099ft
+FFC
+*Apr 21, 2022 14:05 America/New_York*
 
-*Active Alerts:* 8
+*Active Alerts:* 9
 ### This Afternoon - Apr 21, 2022
-> #### **74&deg;F** / 22 mph SSW
-> Patchy blowing dust after 1pm. Mostly cloudy. High near 74, with temperatures falling to around 72 in the afternoon. South southwest wind around 22 mph, with gusts as high as 33 mph.
+> #### **75&deg;F** / 5 mph S
+> Mostly sunny, with a high near 75. South wind around 5 mph.
 
 ### Tonight - Apr 21, 2022
-> #### **47&deg;F** / 10 to 17 mph SSW
-> Patchy blowing dust before 9pm, then a chance of rain showers. Cloudy. Low around 47, with temperatures rising to around 51 overnight. South southwest wind 10 to 17 mph. Chance of precipitation is 30%.
+> #### **54&deg;F** / 0 to 5 mph E
+> Mostly clear, with a low around 54. East wind 0 to 5 mph.
 
 ### Friday - Apr 22, 2022
-> #### **55&deg;F** / 9 to 14 mph SW
-> Rain showers before noon, then showers and thunderstorms. Cloudy. High near 55, with temperatures falling to around 48 in the afternoon. Southwest wind 9 to 14 mph. Chance of precipitation is 100%.
+> #### **81&deg;F** / 0 to 5 mph E
+> Sunny, with a high near 81. East wind 0 to 5 mph.
 
 ### Friday Night - Apr 22, 2022
-> #### **39&deg;F** / 13 mph WNW
-> Showers and thunderstorms likely. Cloudy, with a low around 39. West northwest wind around 13 mph. Chance of precipitation is 60%.
+> #### **55&deg;F** / 0 to 5 mph E
+> Clear, with a low around 55. East wind 0 to 5 mph.
 
 ### Saturday - Apr 23, 2022
-> #### **53&deg;F** / 10 mph WNW
-> A chance of rain showers. Mostly cloudy, with a high near 53. West northwest wind around 10 mph. Chance of precipitation is 40%.
+> #### **81&deg;F** / 0 to 10 mph E
+> Sunny, with a high near 81. East wind 0 to 10 mph, with gusts as high as 20 mph.
 
 ### Saturday Night - Apr 23, 2022
-> #### **38&deg;F** / 5 to 9 mph N
-> Mostly cloudy, with a low around 38.
+> #### **56&deg;F** / 5 to 10 mph SE
+> Mostly clear, with a low around 56.
 
 ### Sunday - Apr 24, 2022
-> #### **57&deg;F** / 3 to 9 mph NW
-> Mostly sunny, with a high near 57.
+> #### **81&deg;F** / 5 to 10 mph SE
+> Mostly sunny, with a high near 81.
 
 ### Sunday Night - Apr 24, 2022
-> #### **38&deg;F** / 7 mph E
-> Mostly clear, with a low around 38.
+> #### **58&deg;F** / 5 mph SE
+> Mostly clear, with a low around 58.
 
 ### Monday - Apr 25, 2022
-> #### **67&deg;F** / 6 to 9 mph SSE
-> Mostly sunny, with a high near 67.
+> #### **85&deg;F** / 5 to 10 mph S
+> A slight chance of showers and thunderstorms after 8am. Sunny, with a high near 85. Chance of precipitation is 20%.
 
 ### Monday Night - Apr 25, 2022
-> #### **46&deg;F** / 8 mph SE
-> Partly cloudy, with a low around 46.
+> #### **59&deg;F** / 5 mph W
+> A slight chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms. Partly cloudy, with a low around 59. Chance of precipitation is 40%.
 
 ### Tuesday - Apr 26, 2022
-> #### **75&deg;F** / 8 to 13 mph SSE
-> Mostly sunny, with a high near 75.
+> #### **79&deg;F** / 5 to 10 mph NW
+> A chance of showers and thunderstorms. Mostly sunny, with a high near 79. Chance of precipitation is 40%.
 
 ### Tuesday Night - Apr 26, 2022
-> #### **50&deg;F** / 6 to 10 mph S
-> Partly cloudy, with a low around 50.
+> #### **49&deg;F** / 5 to 10 mph NW
+> A chance of showers and thunderstorms before 8pm. Mostly clear, with a low around 49. Chance of precipitation is 30%.
 
 ### Wednesday - Apr 27, 2022
-> #### **71&deg;F** / 6 to 10 mph SW
-> Mostly sunny, with a high near 71.
+> #### **75&deg;F** / 5 to 10 mph N
+> Sunny, with a high near 75.
 
 ### Wednesday Night - Apr 27, 2022
-> #### **45&deg;F** / 8 mph NNE
-> Partly cloudy, with a low around 45.
+> #### **49&deg;F** / 5 to 10 mph N
+> Mostly clear, with a low around 49.
 
-## Active Alerts for UT
+## Active Alerts for GA
 
-**WINTER WEATHER ADVISORY IN EFFECT FROM 6 AM FRIDAY TO NOON MDT SATURDAY**
-*Wasatch Mountains I-80 North; Wasatch Mountains South of I-80; Western Uinta Mountains*
-Winter Weather Advisory issued April 21 at 3:25AM MDT until April 23 at 12:00PM MDT by NWS Salt Lake City UT
-* WHAT...Snow expected. Total snow accumulations of 8 to 16
-inches with locally higher amounts in the Upper Cottonwoods.
+**FLOOD WARNING NOW IN EFFECT UNTIL EARLY SUNDAY MORNING**
+*Glynn, GA; McIntosh, GA; Wayne, GA*
+Flood Warning issued April 21 at 9:28AM EDT until April 24 at 2:00AM EDT by NWS Jacksonville FL
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
 
-* WHERE...Wasatch Mountains I-80 North, Wasatch Mountains South
-of I-80 and Western Uinta Mountains.
+* WHERE...Altamaha River At Everett City.
 
-* WHEN...From 6 AM Friday to noon MDT Saturday.
+* WHEN...Until early Sunday morning.
 
-* IMPACTS...Occasional winter driving conditions are possible on
-mountain routes. Traction restrictions may be enacted.
+* IMPACTS...At 12.0 feet, Agricultural and timber lands near the
+river are flooded.
+At 13.0 feet, Water begins to encroach upon Altamaha Regional Park
+in Glynn County. This includes Altamaha Park Road, Betty Lott Lane
+and Bee Tree Island Road. In McIntosh County, Barrington Park at
+the end of Harper Lake Road begins to flood. Blue Reach Road also
+begins to flood near the Long County line.
+At 14.0 feet, Portions of Altamaha Regional Park become inundated,
+including the park campground, boat ramps and parking lots. Bee
+Tree Island Road is flooded and closed. The end of Betty Lott Lane
+is flooded and homes become cut off.
+
+
+* ADDITIONAL DETAILS...
+- At 8:46 AM EDT Thursday the stage was 13.8 feet.
+- Forecast...The river is expected to fall below flood stage
+Saturday evening and continue falling to 12.1 feet Tuesday
+morning.
+- Flood stage is 13.0 feet.
+- http://www.weather.gov/safety/flood
 ---
 
-**WIND ADVISORY IN EFFECT UNTIL 10 PM MDT THIS EVENING**
-*Tooele and Rush Valleys*
-Wind Advisory issued April 21 at 3:23AM MDT until April 21 at 10:00PM MDT by NWS Salt Lake City UT
-* WHAT...South winds 20 to 30 mph with gusts up to 55 mph.
+**FLOOD WARNING REMAINS IN EFFECT UNTIL TOMORROW MORNING**
+*Long, GA; Wayne, GA*
+Flood Warning issued April 21 at 9:27AM EDT until April 22 at 8:00AM EDT by NWS Jacksonville FL
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
 
-* WHERE...Tooele and Rush Valleys.
+* WHERE...Altamaha River At Doctortown.
 
-* WHEN...Until 10 PM MDT this evening.
+* WHEN...Until tomorrow morning.
 
-* IMPACTS...Gusty winds could blow around unsecured objects. A few
-power outages are possible. Crosswinds are possible on east-west
-routes.
+* IMPACTS...At 12.0 feet, Agricultural and timber lands along the
+river begin to flood.
+
+
+* ADDITIONAL DETAILS...
+- At 9:00 AM EDT Thursday the stage was 12.3 feet.
+- Forecast...The river is expected to fall below flood stage
+just after midnight tonight and continue falling to 10.3 feet
+Tuesday morning.
+- Flood stage is 12.0 feet.
+- http://www.weather.gov/safety/flood
 ---
 
-**WIND ADVISORY REMAINS IN EFFECT FROM 10 AM THIS MORNING TO 10 PM MDT THIS EVENING**
-*Western Millard and Juab Counties; Southwest Utah*
-Wind Advisory issued April 21 at 3:23AM MDT until April 21 at 10:00PM MDT by NWS Salt Lake City UT
-* WHAT...Southwest winds 25 to 35 mph with gusts up to 55 mph
-expected.
+**FLOOD WARNING NOW IN EFFECT UNTIL SATURDAY MORNING**
+*Appling, GA; Tattnall, GA; Toombs, GA; Wayne, GA*
+Flood Warning issued April 21 at 9:26AM EDT until April 23 at 8:00AM EDT by NWS Jacksonville FL
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
 
-* WHERE...Western Millard and Juab Counties and Southwest Utah.
+* WHERE...Altamaha River At Baxley.
 
-* WHEN...From 10 AM this morning to 10 PM MDT this evening.
+* WHEN...Until Saturday morning.
 
-* IMPACTS...Gusty winds could blow around unsecured objects. A few
-power outages are possible. Strong crosswinds are expected on
-east-west routes. Blowing dust may reduce visibilities at times.
+* IMPACTS...At 74.5 feet, Flooding of agricultural and timber lands
+is expected. Deens Landing and Linton Carter Landing boat ramps,
+picnic areas and parking lots begin to flood.
+
+
+* ADDITIONAL DETAILS...
+- At 8:45 AM EDT Thursday the stage was 76.3 feet.
+- Forecast...The river is expected to fall below flood stage
+early Saturday morning and continue falling to 70.7 feet
+Tuesday morning.
+- Flood stage is 74.5 feet.
+- http://www.weather.gov/safety/flood
 ---
 
-**WIND ADVISORY IN EFFECT FROM 10 AM THIS MORNING TO 10 PM MDT THIS EVENING**
-*Eastern Juab/Millard Counties; Sevier Valley*
-Wind Advisory issued April 21 at 3:23AM MDT until April 21 at 10:00PM MDT by NWS Salt Lake City UT
-* WHAT...Southwest winds 25 to 35 mph with gusts up to 50 mph
-expected.
+**FLOOD WARNING NOW IN EFFECT UNTIL THIS EVENING**
+*Jeff Davis, GA; Montgomery, GA; Toombs, GA*
+Flood Warning issued April 21 at 9:25AM EDT until April 21 at 6:27PM EDT by NWS Jacksonville FL
+* WHAT...Minor flooding is occurring.
 
-* WHERE...Eastern Juab/Millard Counties and Sevier Valley.
+* WHERE...Altamaha River At Charlotteville.
 
-* WHEN...From 10 AM this morning to 10 PM MDT this evening.
+* WHEN...Until this evening.
 
-* IMPACTS...Gusty winds could blow around unsecured objects. A few
-power outages are possible. Strong crosswinds are expected on
-east-west routes. Blowing dust may reduce visibilities at times.
+* IMPACTS...At 11.0 feet, Bankfull conditions occur along the river
+upstream and downstream from the gage on the U.S. Highway 221
+bridge. Some flooding begins in low lying areas around 1.5 miles
+upstream from the gage in south Montgomery County. The water will
+approach portions of Three Rivers Lane...Altamaha River Road and
+Ogle Sandbar Road.
+At 13.0 feet, Flood stage is reached. Minor flooding occurs in the
+woodlands along the river upstream and downstream from the gage on
+the U.S. Highway 221 bridge. The water reaches the top of the
+public boat ramp by the bridge. Flood waters expand in low lying
+areas in south Montgomery County around 1.5 miles upstream from
+the gage. The water will begin to cover portions of Three Rivers
+Lane...Altamaha River Road and Ogle Sandbar Road.
+
+
+* ADDITIONAL DETAILS...
+- At 8:45 AM EDT Thursday the stage was 13.2 feet.
+- Forecast...The river is expected to fall below flood stage
+late this afternoon and continue falling to 7.4 feet Tuesday
+morning.
+- Flood stage is 13.0 feet.
+- http://www.weather.gov/safety/flood
 ---
 
-**WIND ADVISORY IN EFFECT FROM 8 AM THIS MORNING TO 10 PM MDT THIS EVENING**
-*Salt Lake Valley*
-Wind Advisory issued April 21 at 3:23AM MDT until April 21 at 10:00PM MDT by NWS Salt Lake City UT
-* WHAT...South winds 20 to 30 mph with gusts up to 50 mph
-expected.
+**FLOOD WARNING NOW IN EFFECT UNTIL SUNDAY EVENING**
+*Screven, GA; Allendale, SC*
+Flood Warning issued April 21 at 9:23AM EDT until April 24 at 7:00PM EDT by NWS Charleston SC
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
 
-* WHERE...Salt Lake Valley.
+* WHERE...Savannah River at Burtons Ferry.
 
-* WHEN...From 8 AM this morning to 10 PM MDT this evening.
+* WHEN...Until Sunday evening.
 
-* IMPACTS...Gusty winds could blow around unsecured objects. A few
-power outages are possible. Crosswinds may occur on east-west
-routes.
+* IMPACTS...At 18.2 feet, the picnic area at Stoney Bluff Landing
+becomes flooded. Access to the house at the end of Stoney Bluff
+Landing Road is limited.
+
+* ADDITIONAL DETAILS...
+- At 845 AM EDT Thursday, the stage was 17.3 feet.
+- Forecast...The river is expected to remain steady. It will
+then fall below flood stage Sunday morning.
+- Flood stage is 15.0 feet.
 ---
 
-**WIND ADVISORY IN EFFECT FROM NOON TODAY TO 10 PM MDT THIS EVENING**
-*San Rafael Swell; South Central Utah; Western Canyonlands*
-Wind Advisory issued April 21 at 3:23AM MDT until April 21 at 10:00PM MDT by NWS Salt Lake City UT
-* WHAT...Southwest winds 20 to 30 mph with gusts up to 50 mph
-expected.
+**FLOOD WARNING REMAINS IN EFFECT UNTIL FURTHER NOTICE**
+*Effingham, GA; Screven, GA; Hampton, SC; Jasper, SC*
+Flood Warning issued April 21 at 9:23AM EDT by NWS Charleston SC
+* WHAT...Moderate flooding is occurring and moderate flooding is
+forecast.
 
-* WHERE...San Rafael Swell, South Central Utah and Western
-Canyonlands.
+* WHERE...Savannah River near Clyo.
 
-* WHEN...From noon today to 10 PM MDT this evening.
+* WHEN...Until further notice.
 
-* IMPACTS...Gusty winds could blow around unsecured objects. A few
-power outages are possible. Crosswinds are possible on east-west
-routes. Rough conditions are expected on area lakes.
+* IMPACTS...At 14.5 feet, the bottom floor of several riverfront
+homes along Tom Goethe Road begin to flood.
+
+* ADDITIONAL DETAILS...
+- At 815 AM EDT Thursday, the stage was 15.7 feet.
+- Forecast...The river is expected to remain steady above flood
+stage at 15.7 feet.
+- Flood stage is 11.0 feet.
 ---
 
-**WIND ADVISORY IN EFFECT FROM 10 AM TO 6 PM MDT FRIDAY**
-*Central Gunnison and Uncompahgre River Basin; Paradox Valley/Lower Dolores River; Four Corners/Upper Dolores River; Animas River Basin; San Juan River Basin; Southeast Utah*
-Wind Advisory issued April 21 at 1:44AM MDT until April 22 at 6:00PM MDT by NWS Grand Junction CO
-* WHAT...Southwest winds 20 to 30 mph with gusts up to 50 mph
-expected.
+**HIGH RIP CURRENT RISK NOW IN EFFECT THROUGH LATE TONIGHT**
+*Coastal Nassau; Coastal Duval; Coastal St. Johns; Coastal Flagler; Coastal Glynn; Coastal Camden*
+Rip Current Statement issued April 21 at 2:40AM EDT until April 22 at 5:00AM EDT by NWS Jacksonville FL
+* WHAT...Dangerous rip currents.
 
-* WHERE...In Utah, Southeast Utah. In Colorado, Central Gunnison
-and Uncompahgre River Basin, Paradox Valley/Lower Dolores
-River, Four Corners/Upper Dolores River, Animas River Basin
-and San Juan River Basin.
+* WHERE...Southeast Georgia and Northeast Florida Beaches.
 
-* WHEN...From 10 AM to 6 PM MDT Friday.
+* WHEN...Through late tonight.
 
-* IMPACTS...Gusty winds could blow around unsecured objects.
-Tree limbs could be blown down.
+* IMPACTS...Rip currents can sweep even the best swimmers away
+from shore into deeper water.
 ---
 
-**RED FLAG WARNING REMAINS IN EFFECT UNTIL 10 PM MDT THIS EVENING FOR GUSTY WINDS, LOW RELATIVE HUMIDITY AND DRY FUELS FOR FIRE WEATHER ZONE 490... ...FIRE WEATHER WATCH IN EFFECT FROM THURSDAY MORNING THROUGH THURSDAY EVENING FOR GUSTY WINDS, LOW RELATIVE HUMIDITY AND DRY FUELS FOR FIRE WEATHER ZONE 490**
-*Colorado River Basin*
-Fire Weather Watch issued April 19 at 2:48PM MDT until April 21 at 9:00PM MDT by NWS Grand Junction CO
-The National Weather Service in Grand Junction has issued a Fire
-Weather Watch for gusty winds, low relative humidity and dry
-fuels, which is in effect from Thursday morning through Thursday
+**FLOOD WARNING NOW IN EFFECT UNTIL EARLY FRIDAY MORNING**
+*Bryan, GA; Bulloch, GA; Chatham, GA; Effingham, GA*
+Flood Warning issued April 20 at 9:32PM EDT until April 22 at 2:00AM EDT by NWS Charleston SC
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...Ogeechee River near Eden.
+
+* WHEN...Until early Friday morning.
+
+* IMPACTS...At 11.0 feet, portions of Yarbrough Landing Road become
+impassable. Flooding will also begin upstream of the gauge at the
+Steel Bridge boat landing on Highway 119. Water will overflow the
+riverbank and begin to encroach on a few homes near the boat
+landing.
+
+* ADDITIONAL DETAILS...
+- At 815 PM EDT Wednesday, the stage was 11.2 feet.
+- Forecast...The river is expected to fall below flood stage
+early Thursday afternoon and continue falling to 8.4 feet
+Monday evening.
+- Flood stage is 11.0 feet.
+---
+
+**FLOOD WARNING NOW IN EFFECT UNTIL EARLY FRIDAY MORNING**
+*Jeff Davis, GA; Montgomery, GA; Toombs, GA*
+Flood Warning issued April 16 at 9:28PM EDT until April 22 at 12:00AM EDT by NWS Jacksonville FL
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...Altamaha River At Charlotteville.
+
+* WHEN...Until early Friday morning.
+
+* IMPACTS...At 11.0 feet, Bankfull conditions occur along the river
+upstream and downstream from the gage on the U.S. Highway 221
+bridge. Some flooding begins in low lying areas around 1.5 miles
+upstream from the gage in south Montgomery County. The water will
+approach portions of Three Rivers Lane...Altamaha River Road and
+Ogle Sandbar Road.
+At 13.0 feet, Flood stage is reached. Minor flooding occurs in the
+woodlands along the river upstream and downstream from the gage on
+the U.S. Highway 221 bridge. The water reaches the top of the
+public boat ramp by the bridge. Flood waters expand in low lying
+areas in south Montgomery County around 1.5 miles upstream from
+the gage. The water will begin to cover portions of Three Rivers
+Lane...Altamaha River Road and Ogle Sandbar Road.
+At 14.0 feet, Minor flooding continues in the woodlands along the
+river upstream and downstream from the gage on the U.S. Highway
+221 bridge. The water covers the low portion and entrance of Towns
+Bluff Lane by the bridge. The public boat ramp is under two feet
+of water. Flood waters expand further into south Montgomery County
+around 1.5 miles upstream from the gage. The water will be one to
+two feet deep over portions of Three Rivers Lane...Altamaha River
+Road and Ogle Sandbar Road.
+At 16.0 feet, Minor flooding expands into the woodlands along the
+river upstream and downstream from the gage on the U.S. Highway
+221 bridge. The water will be one to two feet deep over portions
+of Towns Bluff Lane by the bridge. Flood waters continue to expand
+further into south Montgomery County around 1.5 miles upstream
+from the gage. The water will be 2 to 4 feet over large portions
+of Three Rivers Lane...Altamaha River Road and Ogle Sandbar Road.
+At 18.0 feet, Minor flooding expands further into the woodlands
+along the river upstream and downstream from the gage on the U.S.
+Highway 221 bridge. Flood waters will completely cover Towns Bluff
+Lane by the bridge and begin to flood the slab foundations of the
+elevated homes. Flood waters expand further into south Montgomery
+County around 1.5 miles upstream from the gage. The water will be
+4 to 6 feet deep over large portions of Three Rivers Lane...
+Altamaha River Road and Ogle Sandbar Road.
+At 19.0 feet, Minor flooding expands upstream and downstream from
+the Highway 221 bridge. Flood waters near 3 feet deep cover Towns
+Bluff Lane and flood the slab foundations of the elevated homes.
+Flooding expands further into Montgomery County with the water 5
+to 7 feet deep over large portions of Three Rivers Lane...Altamaha
+River Road and Ogle Sandbar Road. The water reaches the top of
+boat ramps and parking lots will begin to flood in Towns Bluff
+Park and along the end of Uvalda Landing Road in Jeff Davis County.
+At 20.0 feet, Moderate flooding begins. Significant flooding
+occurs upstream and downstream from the Highway 221 bridge. Flood
+waters will be near 4 feet deep on Towns Bluff Lane and flood the
+concrete slab foundations of the elevated homes. Flooding expands
+further into Montgomery county with the water 6 to 8 feet deep
+over large portions of Three Rivers Lane...Altamaha River Road and
+Ogle Sandbar Road. The parking lot at Towns Bluff Park and
+portions of Uvalda Landing Road will be flooded in Jeff Davis
+County.
+
+* ADDITIONAL DETAILS...
+- At 8:45 PM EDT Saturday the stage was 18.9 feet.
+- Recent Activity...The maximum river stage in the 24 hours
+ending at 8:45 PM EDT Saturday was 18.9 feet.
+- Forecast...The river is expected to fall below flood stage
+Thursday evening and continue falling to 12.9 feet Thursday
 evening.
-
-* AFFECTED AREA...In Utah, Fire Weather Zone 490 Colorado River
-Basin.
-
-* WINDS...For the Red Flag Warning through this evening, southwest
-20 to 30 mph with gusts up to 50 mph. For the Fire Weather Watch
-Thursday, southwest 15 to 20 mph with gusts up to 30 mph.
-
-* RELATIVE HUMIDITY...7 to 12 percent.
-
-* IMPACTS...Conditions will become favorable for easy ignition and
-rapid spread of fires due to low relative humidity and strong
-gusty winds each afternoon and evening.
+- Flood stage is 13.0 feet.
+- http://www.weather.gov/safety/flood
 ---
 
