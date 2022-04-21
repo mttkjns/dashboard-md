@@ -1,45 +1,59 @@
 # Tickers
-*Apr 21, 2022 12:26 EST*
+*Apr 21, 2022 13:08 EST*
 
 #### VXX - iPath Series B S&P 500 VIX Shor
-24.56 | $ change: 0.17000008 | % change: 0.6970073
-Day range: 24.02 - 24.6093 Vol: 1134109
+24.9588 | $ change: 0.5688 | % change: 2.3321033
+Day range: 24.02 - 24.99 Vol: 1434059
 52 week range: 17.295 - 49.95
 
 ---
 
 #### SPY - SPDR S&P 500
-443.89 | $ change: -0.8199768 | % change: -0.18438461
-Day range: 443.5 - 450.01 Vol: 30256294
+442.04 | $ change: -2.669983 | % change: -0.60038745
+Day range: 442.02 - 450.01 Vol: 35760064
 52 week range: 404.0 - 479.98
 
 ---
 
 #### QQQ - Invesco QQQ Trust, Series 1
-339.705 | $ change: -1.5050049 | % change: -0.44107878
-Day range: 339.32 - 347.87 Vol: 32714684
+338.35 | $ change: -2.8599854 | % change: -0.8381892
+Day range: 338.2 - 347.87 Vol: 38188058
 52 week range: 316.0 - 408.71
 
 ---
 
 #### GME - GameStop Corporation
-142.7465 | $ change: -6.1035004 | % change: -4.1004367
-Day range: 141.87 - 153.05 Vol: 885317
+142.77 | $ change: -6.080002 | % change: -4.08465
+Day range: 141.87 - 153.05 Vol: 999138
 52 week range: 77.58 - 344.66
 
 ---
 
 #### ACB - Aurora Cannabis Inc.
-3.165 | $ change: -0.06500006 | % change: -2.0123856
-Day range: 3.16 - 3.32 Vol: 4384027
+3.125 | $ change: -0.10500002 | % change: -3.2507746
+Day range: 3.12 - 3.32 Vol: 4850651
 52 week range: 2.89 - 10.64
 
 ---
 
 #### SNDL - Sundial Growers Inc.
-0.5104 | $ change: -0.015500009 | % change: -2.94733
-Day range: 0.51 - 0.5389 Vol: 39895255
+0.5102 | $ change: -0.015699983 | % change: -2.9853551
+Day range: 0.5018 - 0.5389 Vol: 49837431
 52 week range: 0.4 - 1.49
+
+---
+
+#### NFLX - Netflix, Inc.
+217.3632 | $ change: -8.8267975 | % change: -3.902382
+Day range: 211.52 - 227.68 Vol: 37357197
+52 week range: 211.52 - 700.99
+
+---
+
+#### FB - Meta Platforms, Inc.
+190.25 | $ change: -10.169998 | % change: -5.074343
+Day range: 189.66 - 202.965 Vol: 27458680
+52 week range: 185.82 - 384.33
 
 ---
 
