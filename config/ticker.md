@@ -9,6 +9,7 @@ ticker_config:
         - "ACB"
         - "SNDL"
         - "NFLX"
+        - "FB"
 
 ---
 
