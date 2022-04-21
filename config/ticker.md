@@ -8,6 +8,7 @@ ticker_config:
         - "GME"
         - "ACB"
         - "SNDL"
+        - "NFLX"
 
 ---
 
