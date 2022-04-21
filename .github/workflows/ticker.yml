@@ -4,7 +4,7 @@ name: ticker scrape
 on:
   push:
     paths:
-      - 'dashboard/config/ticker.md'
+      - 'config/ticker.md'
   workflow_dispatch:
   schedule:
   # At minute 35 past every 2nd hour from 13 through 21 on every day-of-week from Monday through Friday.
