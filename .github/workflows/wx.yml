@@ -4,7 +4,7 @@ name: wx scrape
 on:
   push:
     paths:
-      - 'dashboard/config/wx.md'
+      - 'config/wx.md'
   workflow_dispatch:  
   schedule:
     - cron:  '25 10 * * *'
