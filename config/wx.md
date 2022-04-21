@@ -1,7 +1,7 @@
 ---
 
 wx_config:
-    address: "salt lake city, ut"
+    address: "flowery branch, ga"
     
 ---
 
