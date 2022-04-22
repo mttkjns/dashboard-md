@@ -1,58 +1,58 @@
 # Tickers
-*Apr 22, 2022 13:46 EST*
+*Apr 22, 2022 15:36 EST*
 
 #### VXX - iPath Series B S&P 500 VIX Shor
-25.91 | $ change: 1.0499992 | % change: 4.223649
-Day range: 24.84 - 25.99 Vol: 2066980
+25.715 | $ change: 0.85499954 | % change: 3.439258
+Day range: 24.84 - 26.5 Vol: 3623347
 52 week range: 17.295 - 49.95
 
 ---
 
 #### SPY - SPDR S&P 500
-429.58 | $ change: -8.480011 | % change: -1.9358104
-Day range: 429.16 - 438.079 Vol: 53553773
+430.32 | $ change: -7.73999 | % change: -1.7668791
+Day range: 426.715 - 438.0825 Vol: 80032127
 52 week range: 404.0 - 479.98
 
 ---
 
 #### QQQ - Invesco QQQ Trust, Series 1
-327.941 | $ change: -6.2089844 | % change: -1.8581429
-Day range: 327.55 - 335.56 Vol: 49562702
+328.8 | $ change: -5.350006 | % change: -1.6010793
+Day range: 325.8 - 335.56 Vol: 67989518
 52 week range: 316.0 - 408.71
 
 ---
 
 #### GME - GameStop Corporation
-136.04 | $ change: -5.5200043 | % change: -3.8994098
-Day range: 135.5994 - 146.3 Vol: 1005679
+139.64 | $ change: -1.9199982 | % change: -1.3563141
+Day range: 135.5994 - 146.3 Vol: 1311498
 52 week range: 77.58 - 344.66
 
 ---
 
 #### ACB - Aurora Cannabis Inc.
-3.005 | $ change: -0.11499977 | % change: -3.6858902
-Day range: 2.99 - 3.19 Vol: 3223857
+3.0676 | $ change: -0.052399874 | % change: -1.6794833
+Day range: 2.99 - 3.19 Vol: 4096014
 52 week range: 2.89 - 10.64
 
 ---
 
 #### SNDL - Sundial Growers Inc.
-0.5232 | $ change: 0.017499983 | % change: 3.4605465
-Day range: 0.5 - 0.538 Vol: 44888655
+0.5238 | $ change: 0.018100023 | % change: 3.579202
+Day range: 0.5 - 0.538 Vol: 62520160
 52 week range: 0.4 - 1.49
 
 ---
 
 #### NFLX - Netflix, Inc.
-212.65 | $ change: -5.5700073 | % change: -2.5524733
-Day range: 210.05 - 226.27 Vol: 25866084
+216.855 | $ change: -1.3650055 | % change: -0.6255181
+Day range: 210.05 - 226.27 Vol: 33414872
 52 week range: 210.05 - 700.99
 
 ---
 
 #### FB - Meta Platforms, Inc.
-184.64 | $ change: -3.430008 | % change: -1.8237932
-Day range: 183.28 - 192.72 Vol: 23918437
+186.76 | $ change: -1.3100128 | % change: -0.696556
+Day range: 183.28 - 192.72 Vol: 30551949
 52 week range: 183.28 - 384.33
 
 ---
