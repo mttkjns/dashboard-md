@@ -2,7 +2,7 @@
 
 wx_config:
     address: "flowery branch, ga"
-
+    
 ---
 
 ## Edit the front matter to configure script input.
