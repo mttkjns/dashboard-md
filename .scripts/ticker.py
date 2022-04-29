@@ -46,8 +46,8 @@ tickerResult.write(f"*{datetime.datetime.now(pytz.timezone('US/Eastern')).strfti
 for quote in response.json()['quoteResponse']['result'] :
     md = [f"#### {quote['symbol']} - {quote['shortName']}\n",
     f"{quote['regularMarketPrice']} | $ change: {quote['regularMarketChange']} | % change: {quote['regularMarketChangePercent']}\n",
-    f"Day range: {quote['regularMarketDayRange']} Vol: {quote['regularMarketVolume']}\n",
-    f"52 week range: {quote['fiftyTwoWeekRange']}\n\n",
+    f"Day range: {quote['regularMarketDayRange']} 52 week range: {quote['fiftyTwoWeekRange']}\n",
+    f"Vol: {quote['regularMarketVolume']} 3mo Avg Vol: {quote['averageDailyVolume3Month']}\n\n",
     "---\n\n"]
     tickerResult.writelines(md)
 
