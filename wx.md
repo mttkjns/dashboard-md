@@ -1,97 +1,80 @@
 ## Flowery Branch, GA
 1099ft
 FFC
-*May 04, 2022 06:40 America/New_York*
+*May 05, 2022 06:40 America/New_York*
 
-*Active Alerts:* 2
-### Today - May 04, 2022
-> #### **84&deg;F** / 5 to 10 mph W
-> A chance of showers and thunderstorms. Mostly sunny, with a high near 84. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.
+*Active Alerts:* 1
+### Today - May 05, 2022
+> #### **89&deg;F** / 0 to 10 mph W
+> Mostly sunny, with a high near 89. West wind 0 to 10 mph.
 
-### Tonight - May 04, 2022
-> #### **61&deg;F** / 5 to 10 mph NW
-> A chance of showers and thunderstorms before 7pm. Mostly clear, with a low around 61. Northwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.
-
-### Thursday - May 05, 2022
-> #### **87&deg;F** / 0 to 5 mph NE
-> A slight chance of showers and thunderstorms after 5pm. Mostly sunny, with a high near 87. Northeast wind 0 to 5 mph. Chance of precipitation is 20%.
-
-### Thursday Night - May 05, 2022
-> #### **65&deg;F** / 5 mph S
-> A slight chance of showers and thunderstorms. Mostly cloudy, with a low around 65. South wind around 5 mph. Chance of precipitation is 20%.
+### Tonight - May 05, 2022
+> #### **67&deg;F** / 5 mph SW
+> A slight chance of rain showers after 5am. Mostly cloudy, with a low around 67. Southwest wind around 5 mph. Chance of precipitation is 20%.
 
 ### Friday - May 06, 2022
 > #### **78&deg;F** / 5 to 15 mph SW
-> Showers and thunderstorms. Mostly cloudy, with a high near 78. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%.
+> A chance of rain showers before 8am, then showers and thunderstorms. Mostly cloudy, with a high near 78. Southwest wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible.
 
 ### Friday Night - May 06, 2022
-> #### **61&deg;F** / 10 to 15 mph SW
-> Showers and thunderstorms. Mostly cloudy, with a low around 61. Chance of precipitation is 80%.
+> #### **60&deg;F** / 10 to 15 mph W
+> Showers and thunderstorms before 8pm, then a chance of showers and thunderstorms between 8pm and 2am. Partly cloudy, with a low around 60. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.
 
 ### Saturday - May 07, 2022
-> #### **77&deg;F** / 10 to 15 mph W
-> A chance of showers and thunderstorms before 8am, then a chance of showers and thunderstorms. Mostly sunny, with a high near 77. Chance of precipitation is 40%.
+> #### **74&deg;F** / 10 to 15 mph W
+> A chance of rain showers after 8am. Mostly sunny, with a high near 74. West wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.
 
 ### Saturday Night - May 07, 2022
-> #### **57&deg;F** / 5 to 15 mph NW
-> A chance of showers and thunderstorms before 8pm. Mostly clear, with a low around 57. Chance of precipitation is 40%.
+> #### **55&deg;F** / 5 to 15 mph NW
+> A chance of rain showers before 8pm. Partly cloudy, with a low around 55. Chance of precipitation is 30%.
 
 ### Sunday - May 08, 2022
-> #### **80&deg;F** / 5 to 10 mph NE
-> Sunny, with a high near 80.
+> #### **79&deg;F** / 5 mph NE
+> Sunny, with a high near 79.
 
 ### Sunday Night - May 08, 2022
 > #### **56&deg;F** / 5 to 10 mph E
 > Mostly clear, with a low around 56.
 
 ### Monday - May 09, 2022
-> #### **79&deg;F** / 10 mph E
-> Mostly sunny, with a high near 79.
+> #### **80&deg;F** / 10 mph E
+> Sunny, with a high near 80.
 
 ### Monday Night - May 09, 2022
-> #### **58&deg;F** / 5 to 10 mph E
-> Mostly clear, with a low around 58.
+> #### **59&deg;F** / 5 to 10 mph E
+> Mostly clear, with a low around 59.
 
 ### Tuesday - May 10, 2022
-> #### **82&deg;F** / 5 to 10 mph E
-> Sunny, with a high near 82.
+> #### **84&deg;F** / 5 to 10 mph E
+> Sunny, with a high near 84.
 
 ### Tuesday Night - May 10, 2022
-> #### **61&deg;F** / 0 to 5 mph E
-> Clear, with a low around 61.
+> #### **61&deg;F** / 5 to 10 mph NE
+> Mostly clear, with a low around 61.
+
+### Wednesday - May 11, 2022
+> #### **83&deg;F** / 5 to 10 mph E
+> A slight chance of showers and thunderstorms after 8am. Sunny, with a high near 83. Chance of precipitation is 20%.
+
+### Wednesday Night - May 11, 2022
+> #### **62&deg;F** / 5 to 10 mph E
+> A slight chance of showers and thunderstorms before 8pm. Mostly clear, with a low around 62. Chance of precipitation is 20%.
 
 ## Active Alerts for GA
 
-**A strong thunderstorm will impact portions of southwestern Forsyth, southwestern Gwinnett and northeastern Fulton Counties through 700 AM EDT**
-*Forsyth; North Fulton; Gwinnett*
-Special Weather Statement issued May 4 at 6:35AM EDT by NWS Peachtree City GA
-At 632 AM EDT, a strong thunderstorm was near Berkeley Lake, or 14
-miles west of Lawrenceville, moving southeast at 35 mph.
+**FLOOD WARNING REMAINS IN EFFECT UNTIL FURTHER NOTICE**
+*Forsyth, GA; Fulton, GA*
+Flood Warning issued May 4 at 9:52PM EDT by NWS Peachtree City GA
+* WHAT...Minor flooding is occurring.
 
-HAZARD...Heavy rain.
+* WHERE...Big Creek near Alpharetta.
 
-SOURCE...Radar indicated.
+* WHEN...Until later this evening
 
-IMPACT...Heavy rain may cause temporary street flooding especially
-in poor drainage areas. Many areas in this location have
-already received up to 2.5" of rain from earlier storms.
-
-Locations impacted include...
-Lawrenceville, Sandy Springs, Roswell, Johns Creek, Alpharetta,
-Dunwoody, Duluth, Suwanee, Lilburn, Norcross, Berkeley Lake, Mountain
-Park, Brookwood and Mechanicsville.
----
-
-**DENSE FOG ADVISORY IN EFFECT UNTIL 10 AM EDT THIS MORNING**
-*Colquitt; Seminole; Decatur; Grady; Thomas; Brooks*
-Dense Fog Advisory issued May 4 at 6:03AM EDT until May 4 at 10:00AM EDT by NWS Tallahassee FL
-* WHAT...Visibility one quarter mile or less in dense fog.
-
-* WHERE...Colquitt, Seminole, Decatur, Grady, Thomas and Brooks
-Counties.
-
-* WHEN...Through 10 AM EDT / 9 AM CDT Wednesday.
-
-* IMPACTS...Hazardous driving conditions due to low visibility.
+* ADDITIONAL DETAILS...
+- At 9:45 PM EDT Wednesday the stage was 7.1 feet.
+- Forecast...The river is expected to fall below flood stage
+later this evening and continue falling
+- Flood stage is 7.0 feet.
 ---
 
