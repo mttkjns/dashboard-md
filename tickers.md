@@ -1,59 +1,59 @@
 # Tickers
-*May 11, 2022 11:45 EST*
+*May 11, 2022 13:49 EST*
 
 #### VXX - iPath Series B S&P 500 VIX Shor
-26.14 | $ change: -0.9150009 | % change: -3.382003
+27.66 | $ change: 0.60499954 | % change: 2.236184
 Day range: 26.03 - 27.689 52 week range: 17.295 - 49.95
-Vol: 1318329 3mo Avg Vol: 27454363
+Vol: 1998447 3mo Avg Vol: 27454363
 
 ---
 
 #### SPY - SPDR S&P 500
-402.88 | $ change: 3.7900085 | % change: 0.9496626
-Day range: 396.22 - 404.03 52 week range: 394.82 - 479.98
-Vol: 53199439 3mo Avg Vol: 108698231
+394.0641 | $ change: -5.0259094 | % change: -1.2593423
+Day range: 393.77 - 404.03 52 week range: 393.77 - 479.98
+Vol: 80864368 3mo Avg Vol: 108698231
 
 ---
 
 #### QQQ - Invesco QQQ Trust, Series 1
-301.08 | $ change: 0.3199768 | % change: 0.10638941
-Day range: 296.01 - 304.09 52 week range: 295.72 - 408.71
-Vol: 62750898 3mo Avg Vol: 80416850
+293.41 | $ change: -7.350006 | % change: -2.443811
+Day range: 292.96 - 304.09 52 week range: 292.96 - 408.71
+Vol: 88461358 3mo Avg Vol: 80416850
 
 ---
 
 #### GME - GameStop Corporation
-90.37 | $ change: -3.1299973 | % change: -3.3475907
-Day range: 89.28 - 95.27 52 week range: 77.58 - 344.66
-Vol: 1216844 3mo Avg Vol: 4198751
+83.98 | $ change: -9.519997 | % change: -10.181814
+Day range: 83.5 - 95.27 52 week range: 77.58 - 344.66
+Vol: 2341629 3mo Avg Vol: 4198751
 
 ---
 
 #### ACB - Aurora Cannabis Inc.
-2.52 | $ change: -0.099999905 | % change: -3.8167906
-Day range: 2.46 - 2.59 52 week range: 2.39 - 10.64
-Vol: 3054933 3mo Avg Vol: 7104898
+2.35 | $ change: -0.26999998 | % change: -10.305344
+Day range: 2.35 - 2.59 52 week range: 2.35 - 10.64
+Vol: 5204785 3mo Avg Vol: 7104898
 
 ---
 
 #### SNDL - Sundial Growers Inc.
-0.385 | $ change: -0.0150000155 | % change: -3.7500038
-Day range: 0.3751 - 0.3984 52 week range: 0.375 - 1.49
-Vol: 32585546 3mo Avg Vol: 97915663
+0.3727 | $ change: -0.0273 | % change: -6.825
+Day range: 0.3701 - 0.3984 52 week range: 0.3701 - 1.49
+Vol: 55940741 3mo Avg Vol: 97915663
 
 ---
 
 #### NFLX - Netflix, Inc.
-175.8 | $ change: -1.8600006 | % change: -1.0469439
-Day range: 173.1564 - 180.91 52 week range: 170.57 - 700.99
-Vol: 4668946 3mo Avg Vol: 11301023
+168.77 | $ change: -8.889999 | % change: -5.0039396
+Day range: 168.51 - 180.91 52 week range: 168.51 - 700.99
+Vol: 7267712 3mo Avg Vol: 11301023
 
 ---
 
 #### FB - Meta Platforms, Inc.
-195.6 | $ change: -2.0499878 | % change: -1.0371808
-Day range: 193.3658 - 200.6742 52 week range: 169.0 - 384.33
-Vol: 11350808 3mo Avg Vol: 34894050
+189.53 | $ change: -8.119995 | % change: -4.1082697
+Day range: 188.76 - 200.6742 52 week range: 169.0 - 384.33
+Vol: 18785022 3mo Avg Vol: 34894050
 
 ---
 
