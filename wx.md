@@ -1,115 +1,82 @@
 ## Flowery Branch, GA
 1099ft
 FFC
-*May 18, 2022 06:40 America/New_York*
+*May 19, 2022 06:41 America/New_York*
 
-*Active Alerts:* 4
-### Today - May 18, 2022
-> #### **90&deg;F** / 0 to 10 mph SE
-> Sunny, with a high near 90. Southeast wind 0 to 10 mph.
+*Active Alerts:* 1
+### Today - May 19, 2022
+> #### **93&deg;F** / 5 to 15 mph W
+> A slight chance of showers and thunderstorms after 5pm. Sunny, with a high near 93. West wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%.
 
-### Tonight - May 18, 2022
-> #### **67&deg;F** / 5 to 10 mph SW
-> Mostly clear, with a low around 67. Southwest wind 5 to 10 mph.
-
-### Thursday - May 19, 2022
-> #### **93&deg;F** / 5 to 10 mph W
-> A slight chance of showers and thunderstorms after 5pm. Sunny, with a high near 93. West wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.
-
-### Thursday Night - May 19, 2022
+### Tonight - May 19, 2022
 > #### **68&deg;F** / 5 to 10 mph SW
-> Mostly clear, with a low around 68. Southwest wind 5 to 10 mph.
+> A slight chance of showers and thunderstorms before 7pm. Mostly clear, with a low around 68. Southwest wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.
 
 ### Friday - May 20, 2022
-> #### **91&deg;F** / 5 to 10 mph SW
-> Sunny, with a high near 91. Southwest wind 5 to 10 mph, with gusts as high as 20 mph.
+> #### **92&deg;F** / 5 to 10 mph SW
+> Sunny, with a high near 92. Southwest wind 5 to 10 mph, with gusts as high as 20 mph.
 
 ### Friday Night - May 20, 2022
 > #### **69&deg;F** / 5 to 10 mph S
-> Mostly clear, with a low around 69.
+> Mostly clear, with a low around 69. South wind 5 to 10 mph, with gusts as high as 20 mph.
 
 ### Saturday - May 21, 2022
-> #### **88&deg;F** / 5 to 10 mph SW
-> A chance of showers and thunderstorms after 8am. Mostly sunny, with a high near 88. Chance of precipitation is 40%.
+> #### **88&deg;F** / 5 to 10 mph S
+> A chance of showers and thunderstorms after 8am. Mostly sunny, with a high near 88. South wind 5 to 10 mph. Chance of precipitation is 40%.
 
 ### Saturday Night - May 21, 2022
-> #### **68&deg;F** / 5 to 10 mph SW
-> A chance of showers and thunderstorms. Partly cloudy, with a low around 68. Chance of precipitation is 50%.
+> #### **67&deg;F** / 5 to 10 mph S
+> A chance of showers and thunderstorms. Mostly cloudy, with a low around 67. Chance of precipitation is 40%.
 
 ### Sunday - May 22, 2022
-> #### **81&deg;F** / 5 mph W
-> Showers and thunderstorms likely. Mostly cloudy, with a high near 81. Chance of precipitation is 70%.
+> #### **85&deg;F** / 5 mph SW
+> A chance of showers and thunderstorms before 8am, then showers and thunderstorms. Partly sunny, with a high near 85. Chance of precipitation is 80%.
 
 ### Sunday Night - May 22, 2022
-> #### **62&deg;F** / 5 mph NW
-> Showers and thunderstorms likely before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 62. Chance of precipitation is 70%.
+> #### **66&deg;F** / 5 mph SW
+> Showers and thunderstorms before 8pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 66. Chance of precipitation is 80%.
 
 ### Monday - May 23, 2022
-> #### **77&deg;F** / 5 to 10 mph NE
-> A chance of showers and thunderstorms before 8am, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 77. Chance of precipitation is 50%.
+> #### **79&deg;F** / 5 mph W
+> Showers and thunderstorms likely. Mostly cloudy, with a high near 79. Chance of precipitation is 70%.
 
 ### Monday Night - May 23, 2022
-> #### **59&deg;F** / 10 mph E
-> A chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 59. Chance of precipitation is 50%.
+> #### **64&deg;F** / 5 mph SW
+> Showers and thunderstorms likely before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 64. Chance of precipitation is 70%.
 
 ### Tuesday - May 24, 2022
-> #### **76&deg;F** / 5 to 10 mph E
-> A chance of showers and thunderstorms. Mostly sunny, with a high near 76. Chance of precipitation is 30%.
+> #### **79&deg;F** / 5 mph SE
+> A chance of showers and thunderstorms before 8am, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 79. Chance of precipitation is 50%.
 
 ### Tuesday Night - May 24, 2022
-> #### **61&deg;F** / 5 mph E
-> A chance of showers and thunderstorms. Partly cloudy, with a low around 61. Chance of precipitation is 30%.
+> #### **65&deg;F** / 5 mph SE
+> A chance of showers and thunderstorms before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 65. Chance of precipitation is 40%.
+
+### Wednesday - May 25, 2022
+> #### **84&deg;F** / 5 to 10 mph S
+> A chance of showers and thunderstorms before 8am, then a chance of showers and thunderstorms. Partly sunny, with a high near 84. Chance of precipitation is 40%.
+
+### Wednesday Night - May 25, 2022
+> #### **66&deg;F** / 5 mph SW
+> A chance of showers and thunderstorms. Mostly cloudy, with a low around 66. Chance of precipitation is 40%.
 
 ## Active Alerts for GA
 
-**DENSE FOG ADVISORY IN EFFECT UNTIL 9 AM EDT THIS MORNING**
-*Turner; Tift; Ben Hill; Irwin; Cook; Berrien; Lowndes; Lanier*
-Dense Fog Advisory issued May 18 at 5:55AM EDT until May 18 at 9:00AM EDT by NWS Tallahassee FL
-* WHAT...Visibility one quarter mile or less in dense fog.
+**CODE ORANGE AIR QUALITY ALERT IS IN EFFECT FOR ATLANTA FOR Thursday May 19**
+*Dawson; Bartow; Cherokee; Forsyth; Hall; Paulding; Cobb; North Fulton; Gwinnett; Barrow; Carroll; Douglas; South Fulton; DeKalb; Rockdale; Walton; Newton; Coweta; Fayette; Clayton; Spalding; Henry; Pike*
+Air Quality Alert issued May 18 at 10:23PM EDT by NWS Peachtree City GA
+The Georgia Department of Natural Resources, Environmental
+Protection Division has issued a Code Orange (Unhealthy for
+sensitive groups) Air Quality Alert for Atlanta for
+Thursday May 19.
 
-* WHERE...Turner, Tift, Ben Hill, Irwin, Cook, Berrien, Lowndes
-and Lanier Counties.
+Under Code Orange conditions, the outdoor air quality is likely to
+be unhealthy for some people. Children, people who are sensitive to
+ozone, and people with heart or lung disease should limit prolonged
+outdoor exertion during the late afternoon or early evening when
+ozone concentrations are highest.
 
-* WHEN...Until 9 AM EDT this morning.
-
-* IMPACTS...Hazardous driving conditions due to low visibility.
----
-
-**PATCHY DENSE FOG POSSIBLE ACROSS PORTIONS OF SOUTHEAST SOUTH CAROLINA AND SOUTHEAST GEORGIA EARLY THIS MORNING**
-*Screven; Bulloch; Effingham; Tattnall; Evans; Inland Bryan; Coastal Bryan; Inland Chatham; Coastal Chatham; Long; Inland Liberty; Coastal Liberty; Inland McIntosh; Coastal McIntosh; Allendale; Hampton; Inland Colleton; Dorchester; Inland Berkeley; Inland Jasper; Beaufort; Coastal Colleton; Charleston; Coastal Jasper; Tidal Berkeley*
-Special Weather Statement issued May 18 at 5:11AM EDT by NWS Charleston SC
-Areas of fog will bring impacts to southeast South Carolina and
-southeast Georgia this morning. The fog may become locally dense
-at times with visibilities dropping to 1/4 mile or less. Motorists
-should remain alert for these conditions this morning.
----
-
-**DENSE FOG ADVISORY REMAINS IN EFFECT UNTIL 9 AM EDT THIS MORNING**
-*Hamilton; Suwannee; Baker; Inland Nassau; Union; Bradford; Gilchrist; Northern Columbia; Eastern Alachua; Southern Columbia; Western Alachua; Central Marion; Western Marion; Coffee; Jeff Davis; Bacon; Appling; Wayne; Atkinson; Pierce; Brantley; Inland Glynn; Coastal Glynn; Echols; Clinch; Inland Camden; Coastal Camden; Northern Ware; Northeastern Charlton; Southern Ware; Western Charlton*
-Dense Fog Advisory issued May 18 at 4:17AM EDT until May 18 at 9:00AM EDT by NWS Jacksonville FL
-* WHAT...Visibility one quarter mile or less in dense fog.
-
-* WHERE...Portions of southeast Georgia and northeast and
-northern Florida including the I-10 and I-75 corridors in
-northeast Florida and the I-95 corridor in southeast Georgia.
-
-* WHEN...Until 9 AM EDT this morning.
-
-* IMPACTS...Hazardous driving conditions due to low visibility.
----
-
-**INLAND MORNING FOG**
-*Hamilton; Suwannee; Baker; Inland Nassau; Union; Bradford; Gilchrist; Northern Columbia; Eastern Alachua; Southern Columbia; Western Clay; Western Alachua; Western Duval; Coffee; Jeff Davis; Bacon; Appling; Wayne; Atkinson; Pierce; Brantley; Inland Glynn; Coastal Glynn; Echols; Clinch; Inland Camden; Coastal Camden; Northern Ware; Northeastern Charlton; Southern Ware; Western Charlton*
-Special Weather Statement issued May 18 at 2:09AM EDT by NWS Jacksonville FL
-Inland fog will continue to expand in coverage through daybreak
-across southeast Georgia generally near and west of the I-95
-corridor and across portions of northeast Florida including near
-the I-10 and I-75 corridors. Visibility will be less than 1 mile
-at times.
-
-Motorists should slow down, use low beam headlights and
-allow extra drive space between vehicles.
-
-Visibility will improve after sunrise.
+For additional information on the Air Quality Index, please visit
+http://airnow.gov.
 ---
 
