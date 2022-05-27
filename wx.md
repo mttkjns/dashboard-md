@@ -1,39 +1,31 @@
 ## Flowery Branch, GA
 1099ft
 FFC
-*May 26, 2022 06:40 America/New_York*
+*May 27, 2022 06:41 America/New_York*
 
 *Active Alerts:* 2
-### Today - May 26, 2022
-> #### **74&deg;F** / 5 to 15 mph SE
-> Showers and thunderstorms likely before 7am, then a chance of showers and thunderstorms between 7am and 11am, then showers and thunderstorms between 11am and 5pm, then showers and thunderstorms likely. Cloudy, with a high near 74. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible.
+### Today - May 27, 2022
+> #### **78&deg;F** / 5 to 15 mph SW
+> Mostly sunny, with a high near 78. Southwest wind 5 to 15 mph, with gusts as high as 25 mph.
 
-### Tonight - May 26, 2022
-> #### **62&deg;F** / 5 to 15 mph S
-> Showers and thunderstorms likely before 10pm, then showers and thunderstorms between 10pm and 11pm, then showers and thunderstorms likely between 11pm and midnight, then showers and thunderstorms likely between midnight and 1am, then a chance of showers and thunderstorms between 1am and 4am. Mostly cloudy, with a low around 62. South wind 5 to 15 mph. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible.
-
-### Friday - May 27, 2022
-> #### **77&deg;F** / 5 to 15 mph SW
-> Mostly sunny, with a high near 77. Southwest wind 5 to 15 mph, with gusts as high as 25 mph. New rainfall amounts between a quarter and half of an inch possible.
-
-### Friday Night - May 27, 2022
-> #### **59&deg;F** / 5 to 10 mph W
-> Mostly clear, with a low around 59. West wind 5 to 10 mph, with gusts as high as 20 mph.
+### Tonight - May 27, 2022
+> #### **59&deg;F** / 5 to 15 mph W
+> Mostly clear, with a low around 59. West wind 5 to 15 mph, with gusts as high as 25 mph.
 
 ### Saturday - May 28, 2022
-> #### **81&deg;F** / 5 to 10 mph W
-> Sunny, with a high near 81. West wind 5 to 10 mph.
+> #### **82&deg;F** / 5 mph NW
+> Sunny, with a high near 82. Northwest wind around 5 mph.
 
 ### Saturday Night - May 28, 2022
-> #### **60&deg;F** / 5 to 10 mph NW
-> Mostly clear, with a low around 60.
+> #### **61&deg;F** / 5 mph N
+> Mostly clear, with a low around 61. North wind around 5 mph.
 
 ### Sunday - May 29, 2022
-> #### **84&deg;F** / 5 mph E
-> Sunny, with a high near 84.
+> #### **85&deg;F** / 5 to 10 mph E
+> Sunny, with a high near 85. East wind 5 to 10 mph.
 
 ### Sunday Night - May 29, 2022
-> #### **64&deg;F** / 5 mph E
+> #### **64&deg;F** / 5 to 10 mph E
 > Mostly clear, with a low around 64.
 
 ### Memorial Day - May 30, 2022
@@ -45,82 +37,119 @@ FFC
 > Mostly clear, with a low around 66.
 
 ### Tuesday - May 31, 2022
-> #### **88&deg;F** / 5 to 10 mph NE
-> A slight chance of showers and thunderstorms after 8am. Sunny, with a high near 88. Chance of precipitation is 20%.
+> #### **89&deg;F** / 5 mph E
+> Sunny, with a high near 89.
 
 ### Tuesday Night - May 31, 2022
 > #### **67&deg;F** / 5 mph NE
-> A slight chance of showers and thunderstorms before 8pm. Mostly clear, with a low around 67. Chance of precipitation is 20%.
+> Mostly clear, with a low around 67.
 
 ### Wednesday - Jun 01, 2022
-> #### **90&deg;F** / 5 to 10 mph NE
-> A slight chance of showers and thunderstorms after 8am. Sunny, with a high near 90. Chance of precipitation is 20%.
+> #### **91&deg;F** / 5 mph NE
+> Sunny, with a high near 91.
 
 ### Wednesday Night - Jun 01, 2022
-> #### **67&deg;F** / 5 to 10 mph NE
-> A slight chance of showers and thunderstorms before 8pm. Mostly clear, with a low around 67. Chance of precipitation is 20%.
+> #### **68&deg;F** / 5 mph E
+> Mostly clear, with a low around 68.
+
+### Thursday - Jun 02, 2022
+> #### **90&deg;F** / 5 to 10 mph NW
+> A chance of showers and thunderstorms after 8am. Sunny, with a high near 90. Chance of precipitation is 30%.
+
+### Thursday Night - Jun 02, 2022
+> #### **67&deg;F** / 5 to 10 mph NW
+> A chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 67. Chance of precipitation is 30%.
 
 ## Active Alerts for GA
 
-**A FLASH FLOOD WATCH REMAINS IN EFFECT THROUGH FRIDAY MORNING**
+**FLOOD ADVISORY NOW IN EFFECT UNTIL 8 AM EDT THIS MORNING**
+*Rabun, GA; Macon, NC*
+Flood Advisory issued May 27 at 2:55AM EDT until May 27 at 8:00AM EDT by NWS Greenville-Spartanburg SC
+* WHAT...Flooding caused by excessive rainfall continues.
+
+* WHERE...Rabun County, Georgia and Macon County, North Carolina.
+
+* WHEN...Until 800 AM EDT.
+
+* IMPACTS...Nuisance to Minor flooding will continue, causing common
+inundation of low-water crossings, boat-access areas, campgrounds,
+parks, greenways, farmland and other areas adjacent to streams.
+
+* The Little Tennessee River from Franklin to Needmore is currently
+exceeding bankfull and will continue to flood low-lying areas
+adjacent to the river.  The river is currently cresting but at
+levels just above Action/Advisory Stage Needmore Rd will be
+flooding.
+
+* The Nantahala River near Rainbow Springs is currently exceeding
+bankfull and is flooding several low-water crossings.  The river
+will continue to rise over the next couple of hours and may reach
+6.5 feet before cresting.
+
+* The Tallulah River above Lake Burton has crested near 7 feet and
+will gradually fall through Friday morning.  Current flows are
+unusually high, however, so continued impacts to adjacent
+low-water crossings and along Plum Orchard Rd will continue for at
+least a few more hours.
+
+* ADDITIONAL DETAILS...
+- At 233 AM EDT, The last round of shower activity is currently
+departing Rabun and Macon counties after numerous rounds of
+moderate to heavy rainfall over the past 24 hours.  This
+rainfall resulted in areas of 3-6 inches of accumulation
+across the area, resulting in significant rises along
+numerous streams.  Significant flows will continue along
+larger streams across the area, causing elevated flows and
+out-of-bank conditions to persist into the early morning
+hours.  Residents along the Tallulah River below Lake Burton,
+especially below Mathis Dam need to remain alert for
+potential reservoir releases due to very high flows feeding
+Lake Burton.  If significant releases occur, a Flash Flood
+Warning may be needed.  Please stay weather aware.
+- Some locations that may continue to experience flooding
+include...
+Franklin, Clayton, Highlands, Mountain City, Tiger, Dillard,
+Sky Valley, Tallulah Falls, Black Rock Mountain State Park,
+Lake Burton, Lakemont, Lake Rabun, Nantahala Lake, Tallulah
+Gorge State Park, Otto, Scaly Mountain, Rainbow Springs,
+Cullasaja, Burningtown and Wayah Bald.
+---
+
+**FLOOD WATCH REMAINS IN EFFECT UNTIL NOON EDT TODAY**
 *Rabun; Habersham; Avery; Madison; Yancey; Mitchell; Swain; Haywood; Buncombe; Graham; Northern Jackson; Macon; Southern Jackson; Transylvania; Henderson; Caldwell Mountains; Greater Caldwell; Burke Mountains; Greater Burke; McDowell Mountains; Eastern McDowell; Rutherford Mountains; Greater Rutherford; Polk Mountains; Eastern Polk; Oconee Mountains; Pickens Mountains; Greenville Mountains*
-Flood Watch issued May 26 at 4:45AM EDT until May 27 at 12:00PM EDT by NWS Greenville-Spartanburg SC
-* WHAT...Flash flooding caused by excessive rainfall continues to be
-possible.
+Flood Watch issued May 27 at 2:22AM EDT until May 27 at 12:00PM EDT by NWS Greenville-Spartanburg SC
+* WHAT...Flash flooding caused by excessive rainfall continues.
 
 * WHERE...Portions of northeast Georgia, western North Carolina and
-upstate South Carolina, including the following areas, in
+Upstate South Carolina, including the following areas, in
 northeast Georgia, Habersham and Rabun. In western North Carolina,
 Avery, Buncombe, Burke Mountains, Caldwell Mountains, Eastern
 McDowell, Eastern Polk, Graham, Greater Burke, Greater Caldwell,
 Greater Rutherford, Haywood, Henderson, Macon, Madison, McDowell
 Mountains, Mitchell, Northern Jackson, Polk Mountains, Rutherford
 Mountains, Southern Jackson, Swain, Transylvania and Yancey. In
-upstate South Carolina, Greenville Mountains, Oconee Mountains and
+Upstate South Carolina, Greenville Mountains, Oconee Mountains and
 Pickens Mountains.
 
-* WHEN...Through Friday morning.
+* WHEN...Until Noon EDT today.
 
-* IMPACTS...Excessive runoff may result in flooding of rivers,
-creeks, streams, and other low-lying and flood-prone locations.
-
-* ADDITIONAL DETAILS...
-- Widespread rain with embedded thunderstorms will affect the
-mountains and foothills today and tonight with rainfall
-amounts of 2 to 4 inches in the southerly upslope areas. Some
-locations could receive up to five inches of rain. Lesser
-amounts are expected along the Tennessee border. Although it
-had been relatively dry this month, rainfall over the last
-several days has increased the soil moisture and raised the
-threat for enough runoff to lead to flash flooding in the
-Watch area.
-- For flood safety information, please see
-http://www.weather.gov/safety/flood
----
-
-**FLOOD WATCH IN EFFECT THROUGH FRIDAY MORNING**
-*Fannin; Gilmer; Union; Towns; Pickens; Dawson; Lumpkin; White*
-Flood Watch issued May 26 at 3:55AM EDT until May 27 at 12:00PM EDT by NWS Peachtree City GA
-* WHAT...Flooding caused by excessive rainfall is possible.
-
-* WHERE...Portions of north central Georgia and northeast Georgia,
-including the following counties, in north central Georgia,
-Dawson, Fannin, Gilmer, Lumpkin, Pickens and Union. In northeast
-Georgia, Towns and White.
-
-* WHEN...Through Friday morning.
-
-* IMPACTS...Excessive runoff may result in flooding of rivers,
-creeks, streams, and other low-lying and flood-prone locations.
+* IMPACTS...Ongoing flooding continues in many southern North
+Carolina mountain communities. Additional heavy rainfall at rates
+of one-quarter to one-half inch per hour, combined with excessive
+runoff from earlier rainfall, may result in further flooding of
+rivers, creeks, streams, and other low-lying and flood-prone
+locations. Area creeks and streams are already running high and
+could easily flood with any more heavy rainfall.
 
 * ADDITIONAL DETAILS...
-- A slow moving upper level system combined with a moist
-tropical airmass in place will increase the risk for flash
-flooding today and tonight.   Waves of rainfall, some heavy,
-are anticipated today and tonight as the system slowly moves
-across the area.  As a result, 1 to 3 inches of rainfall are
-forecast with locally higher amounts possible across the
-higher elevations of North Georgia.
+- Many parts of the watch area have received 2 to 5 inches of
+rain in the past 24 hours, with a few locations in the
+southern mountains already above 6 inches. Areas of moderate
+to heavy rain showers with embedded thunderstorms will
+continue and additional flooding may develop while ongoing
+flooding worsens. An additional inch or two of rainfall will
+be possible through daybreak in the most prone locations to
+southerly upslope flow.
 - http://www.weather.gov/safety/flood
 ---
 
