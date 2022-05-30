@@ -1,5 +1,5 @@
 # Tickers
-*May 30, 2022 11:48 EST*
+*May 30, 2022 13:44 EST*
 
 #### VXX - iPath Series B S&P 500 VIX Shor
 22.46 | $ change: -0.800001 | % change: -3.43939
@@ -23,8 +23,8 @@ Vol: 66985596 3mo Avg Vol: 80609249
 ---
 
 #### GME - GameStop Corporation
-137.21 | $ change: 8.75 | % change: 6.81146
-Day range: 127.05 - 143.7 52 week range: 77.58 - 344.66
+137.21 | $ change: 8.75 | % change: 6.8114586
+Day range: 127.0 - 143.7 52 week range: 77.58 - 344.66
 Vol: 7511269 3mo Avg Vol: 4830015
 
 ---
