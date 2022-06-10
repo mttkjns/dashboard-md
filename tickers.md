@@ -1,52 +1,52 @@
 # Tickers
-*Jun 10, 2022 15:36 EST*
+*Jun 10, 2022 18:32 EST*
 
 #### VXX - iPath Series B S&P 500 VIX Shor
-23.06 | $ change: -0.069999695 | % change: -0.30263594
-Day range: 23.05 - 24.095 52 week range: 17.295 - 41.65
-Vol: 6170057 3mo Avg Vol: 7110079
+23.33 | $ change: 0.200001 | % change: 0.864681
+Day range: 22.98 - 24.095 52 week range: 17.295 - 41.65
+Vol: 7312047 3mo Avg Vol: 7110079
 
 ---
 
 #### SPY - SPDR S&P 500
-393.21 | $ change: -8.230011 | % change: -2.0501223
-Day range: 389.87 - 395.7777 52 week range: 380.54 - 479.98
-Vol: 95959322 3mo Avg Vol: 97981450
+389.8 | $ change: -11.64 | % change: -2.89957
+Day range: 389.75 - 395.7777 52 week range: 380.54 - 479.98
+Vol: 118057320 3mo Avg Vol: 97981450
 
 ---
 
 #### QQQ - Invesco QQQ Trust, Series 1
-291.22 | $ change: -8.179993 | % change: -2.7321284
+288.84 | $ change: -10.559998 | % change: -3.5270534
 Day range: 288.384 - 294.87 52 week range: 280.21 - 408.71
-Vol: 70482982 3mo Avg Vol: 77616811
+Vol: 85744564 3mo Avg Vol: 77616811
 
 ---
 
 #### GME - GameStop Corporation
-130.8301 | $ change: 1.8500977 | % change: 1.4344066
+129.09 | $ change: 0.110001 | % change: 0.085285
 Day range: 123.14 - 131.78 52 week range: 77.58 - 255.69
-Vol: 2634759 3mo Avg Vol: 5227473
+Vol: 2951371 3mo Avg Vol: 5227473
 
 ---
 
 #### ACB - Aurora Cannabis Inc.
-1.395 | $ change: -0.08500004 | % change: -5.7432456
+1.4 | $ change: -0.08000004 | % change: -5.405408
 Day range: 1.36 - 1.46 52 week range: 1.36 - 10.013
-Vol: 8696377 3mo Avg Vol: 10435626
+Vol: 9540250 3mo Avg Vol: 10435626
 
 ---
 
 #### SNDL - Sundial Growers Inc.
-0.3303 | $ change: -0.016799986 | % change: -4.8401
+0.3289 | $ change: -0.01819998 | % change: -5.24344
 Day range: 0.3251 - 0.3469 52 week range: 0.3251 - 1.12
-Vol: 56839273 3mo Avg Vol: 100390619
+Vol: 62476672 3mo Avg Vol: 100390619
 
 ---
 
 #### NFLX - Netflix, Inc.
-184.52 | $ change: -8.25 | % change: -4.2797112
+182.94 | $ change: -9.830002 | % change: -5.099342
 Day range: 180.9113 - 185.86 52 week range: 162.71 - 700.99
-Vol: 11032357 3mo Avg Vol: 12389407
+Vol: 12900002 3mo Avg Vol: 12389407
 
 ---
 
