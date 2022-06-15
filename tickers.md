@@ -1,52 +1,52 @@
 # Tickers
-*Jun 15, 2022 13:40 EST*
+*Jun 15, 2022 15:36 EST*
 
 #### VXX - iPath Series B S&P 500 VIX Shor
-24.4 | $ change: -0.9300003 | % change: -3.671537
-Day range: 23.92 - 24.84 52 week range: 17.295 - 41.65
-Vol: 2379763 3mo Avg Vol: 4693906
+23.5199 | $ change: -1.8101006 | % change: -7.1460743
+Day range: 23.17 - 25.04 52 week range: 17.295 - 41.65
+Vol: 5324054 3mo Avg Vol: 4693906
 
 ---
 
 #### SPY - SPDR S&P 500
-377.37 | $ change: 3.5 | % change: 0.9361543
-Day range: 376.0 - 379.5 52 week range: 370.59 - 479.98
-Vol: 40177734 3mo Avg Vol: 99714195
+382.97 | $ change: 9.100006 | % change: 2.4340029
+Day range: 372.12 - 383.9 52 week range: 370.59 - 479.98
+Vol: 94236884 3mo Avg Vol: 99714195
 
 ---
 
 #### QQQ - Invesco QQQ Trust, Series 1
-280.8151 | $ change: 4.9050903 | % change: 1.7777864
-Day range: 278.76 - 281.53 52 week range: 273.34 - 408.71
-Vol: 28517238 3mo Avg Vol: 77973349
+285.9711 | $ change: 10.061096 | % change: 3.6465137
+Day range: 276.64 - 286.83 52 week range: 273.34 - 408.71
+Vol: 70880729 3mo Avg Vol: 77973349
 
 ---
 
 #### GME - GameStop Corporation
-129.4 | $ change: 3.2299957 | % change: 2.5600348
+130.2911 | $ change: 4.121109 | % change: 3.2663145
 Day range: 123.64 - 131.96 52 week range: 77.58 - 255.69
-Vol: 1749157 3mo Avg Vol: 5216585
+Vol: 2469436 3mo Avg Vol: 5216585
 
 ---
 
 #### ACB - Aurora Cannabis Inc.
-1.315 | $ change: 0.0050001144 | % change: 0.38168815
-Day range: 1.25 - 1.35 52 week range: 1.21 - 9.54
-Vol: 6794124 3mo Avg Vol: 10699471
+1.365 | $ change: 0.055000067 | % change: 4.1984787
+Day range: 1.25 - 1.37 52 week range: 1.21 - 9.54
+Vol: 11664490 3mo Avg Vol: 10699471
 
 ---
 
 #### SNDL - Sundial Growers Inc.
-0.3 | $ change: 0.006000012 | % change: 2.0408204
-Day range: 0.294 - 0.3044 52 week range: 0.292 - 1.06
-Vol: 39771222 3mo Avg Vol: 101539041
+0.3057 | $ change: 0.011700004 | % change: 3.979593
+Day range: 0.2902 - 0.306 52 week range: 0.2902 - 1.06
+Vol: 62792555 3mo Avg Vol: 101539041
 
 ---
 
 #### NFLX - Netflix, Inc.
-178.9 | $ change: 11.360001 | % change: 6.7804704
-Day range: 168.53 - 179.66 52 week range: 162.71 - 700.99
-Vol: 5741179 3mo Avg Vol: 12685517
+183.1 | $ change: 15.560013 | % change: 9.287342
+Day range: 168.53 - 183.845 52 week range: 162.71 - 700.99
+Vol: 9440565 3mo Avg Vol: 12685517
 
 ---
 
