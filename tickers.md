@@ -1,9 +1,9 @@
 # Tickers
-*Jun 20, 2022 15:36 EST*
+*Jun 20, 2022 17:38 EST*
 
 #### VXX - iPath Series B S&P 500 VIX Shor
-24.66 | $ change: -0.74 | % change: -2.91338
-Day range: 24.41 - 25.58 52 week range: 17.295 - 41.65
+24.66 | $ change: -0.7399998 | % change: -2.913385
+Day range: 24.41 - 25.59 52 week range: 17.295 - 41.65
 Vol: 3165999 3mo Avg Vol: 4369792
 
 ---
