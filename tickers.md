@@ -1,5 +1,5 @@
 # Tickers
-*Jul 04, 2022 13:41 EST*
+*Jul 04, 2022 15:36 EST*
 
 #### VXX - iPath Series B S&P 500 VIX Shor
 22.54 | $ change: -0.539999 | % change: -2.33968
