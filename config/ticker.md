@@ -5,11 +5,6 @@ ticker_config:
         - "VXX"
         - "SPY"
         - "QQQ"
-        - "GME"
-        - "ACB"
-        - "SNDL"
-        - "NFLX"
-        - "FB"
 
 ---
 
