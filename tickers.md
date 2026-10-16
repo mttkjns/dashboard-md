@@ -1,24 +1,24 @@
 # Tickers
-*Oct 15, 2026 18:39 EST*
+*Oct 16, 2026 13:40 EST*
 
 #### VXX - iPath Series B S&P 500 VIX Shor
-17.08 | $ change: -0.120001 | % change: -0.697679
-Day range: 16.9305 - 17.745 52 week range: 16.54 - 40.825
-Vol: 11956594 3mo Avg Vol: 8066931
+18.375 | $ change: 1.2950001 | % change: 7.5819674
+Day range: 16.67 - 19.26 52 week range: 16.54 - 40.825
+Vol: 25960003 3mo Avg Vol: 8141214
 
 ---
 
 #### SPY - State Street SPDR S&P 500 ETF T
-771.79 | $ change: 2.19 | % change: 0.284564
-Day range: 764.44 - 772.87 52 week range: 629.28 - 781.62
-Vol: 42916599 3mo Avg Vol: 43118362
+764.29 | $ change: -7.5 | % change: -0.97176695
+Day range: 762.59 - 773.23 52 week range: 629.28 - 781.62
+Vol: 26605052 3mo Avg Vol: 43073315
 
 ---
 
 #### QQQ - Invesco QQQ Trust, Series 1
-728.0 | $ change: -0.9500122 | % change: -0.13032612
-Day range: 715.435 - 729.43 52 week range: 555.6 - 762.86
-Vol: 49058351 3mo Avg Vol: 35194106
+712.62 | $ change: -15.380005 | % change: -2.112638
+Day range: 711.01 - 725.94 52 week range: 555.6 - 762.86
+Vol: 35689219 3mo Avg Vol: 35374167
 
 ---
 
